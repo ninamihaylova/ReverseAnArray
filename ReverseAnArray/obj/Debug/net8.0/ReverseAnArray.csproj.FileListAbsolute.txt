@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\ReverseAnArray\ReverseAnArray\bin\Debug\net8.0\ReverseAnArray.exe
+C:\Users\ninag\RiderProjects\ReverseAnArray\ReverseAnArray\bin\Debug\net8.0\ReverseAnArray.deps.json
+C:\Users\ninag\RiderProjects\ReverseAnArray\ReverseAnArray\bin\Debug\net8.0\ReverseAnArray.runtimeconfig.json
+C:\Users\ninag\RiderProjects\ReverseAnArray\ReverseAnArray\bin\Debug\net8.0\ReverseAnArray.dll
+C:\Users\ninag\RiderProjects\ReverseAnArray\ReverseAnArray\bin\Debug\net8.0\ReverseAnArray.pdb
+C:\Users\ninag\RiderProjects\ReverseAnArray\ReverseAnArray\obj\Debug\net8.0\ReverseAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\ReverseAnArray\ReverseAnArray\obj\Debug\net8.0\ReverseAnArray.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\ReverseAnArray\ReverseAnArray\obj\Debug\net8.0\ReverseAnArray.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\ReverseAnArray\ReverseAnArray\obj\Debug\net8.0\ReverseAnArray.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\ReverseAnArray\ReverseAnArray\obj\Debug\net8.0\ReverseAnArray.dll
+C:\Users\ninag\RiderProjects\ReverseAnArray\ReverseAnArray\obj\Debug\net8.0\refint\ReverseAnArray.dll
+C:\Users\ninag\RiderProjects\ReverseAnArray\ReverseAnArray\obj\Debug\net8.0\ReverseAnArray.pdb
+C:\Users\ninag\RiderProjects\ReverseAnArray\ReverseAnArray\obj\Debug\net8.0\ReverseAnArray.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\ReverseAnArray\ReverseAnArray\obj\Debug\net8.0\ref\ReverseAnArray.dll
